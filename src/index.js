@@ -17,7 +17,7 @@ const GlassCard = ({ color, width, height, children }) => {
 
   return (
     <div
-      className={`glass-container ${tiltable} light`}
+      className={`glass-container`}
       style={{
         backgroundColor: color,
         width: `${cardwidth}rem`,
