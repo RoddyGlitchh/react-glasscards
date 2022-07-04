@@ -49,5 +49,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "antd": "^4.12.3",
+    "vanilla-tilt": "^1.7.0"
+  }
 }
