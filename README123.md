@@ -29,8 +29,3 @@ style,
   width,
   height,
   glassOpacity
-
-
-## License
-
-MIT © [RoddyGlitchh](https://github.com/RoddyGlitchh)
