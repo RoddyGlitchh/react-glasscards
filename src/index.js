@@ -1,13 +1,9 @@
+import './index.css'
 import React from 'react'
-const GlassCard = ({ color, tilt, width, height, children }) => {
+const GlassCard = ({ color, width, height, children }) => {
   let cardwidth
   let cardheight
-  let tiltable
-  if (tilt === true) {
-    tiltable = 'js-tilt'
-  } else {
-    tiltable = ''
-  }
+
   if (width === null) {
     cardwidth = 10
   } else {
