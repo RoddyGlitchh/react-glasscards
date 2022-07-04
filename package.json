@@ -1,5 +1,5 @@
 {
-  "name": "react-glasscards",
+  "name": "react-glass-cards",
   "version": "1.0.0",
   "description": "Made with create-react-library",
   "author": "RoddyGlitchh",
@@ -51,7 +51,6 @@
     "dist"
   ],
   "dependencies": {
-    "antd": "^4.12.3",
     "vanilla-tilt": "^1.7.0"
   }
 }

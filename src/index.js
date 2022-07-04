@@ -1,5 +1,3 @@
-import './GlassCard_styles.css'
-
 import React from 'react'
 const GlassCard = ({ color, tilt, width, height, children }) => {
   let cardwidth
